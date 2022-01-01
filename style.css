@@ -1,0 +1,33 @@
+.heading{
+
+    font-size :20px;
+    width :1299px;
+    padding : 5px;
+    letter-spacing : 2px;
+    color:black;
+
+    background-color: yellow;
+}
+
+ 
+
+#footer{
+    width:100%;
+    position:fixed;
+    bottom:0;
+    color : white;
+    background-color:grey;
+    height:30px;
+    padding-top:5px;
+
+}
+
+canvas{
+    border : 5px sollid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px blue;
+   margin-top: 10px;;
+    height:50px;
+    width:300px;
+    
+}
